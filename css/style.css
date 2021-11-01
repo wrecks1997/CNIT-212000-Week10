@@ -9,6 +9,7 @@ body{
     display:flex;
     justify-content: space-between;
     background-color: teal;
+    overflow: hidden;
 }
 .logo{
     background-color: white;
